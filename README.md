@@ -1,18 +1,15 @@
-# VPN Comparison Website
+# Lorem Ipsum
 
-A one-page SEO-optimized website for comparing VPN services.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ## Features
 
-- SEO optimized with meta tags, structured data, and semantic HTML
-- Responsive design for all devices
-- Fast loading and lightweight
-- Modern, clean UI/UX
-- Comparison table and detailed VPN cards
-- FAQ section
-- Buying guide content
+- Ut enim ad minim veniam
+- Quis nostrud exercitation
+- Ullamco laboris nisi
+- Ut aliquip ex ea commodo
 
 ## License
 
-This project is open source and available for modification.
+Proprietary.
 
